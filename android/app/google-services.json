@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425035901575",
+    "project_id": "turf-f1980",
+    "storage_bucket": "turf-f1980.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425035901575:android:6ebafca1fe55f4e1f8e622",
+        "android_client_info": {
+          "package_name": "com.example.snabbit_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xQ71hb3ysGXrg5pnVq-KA4nL-SQNKjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
